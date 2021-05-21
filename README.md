@@ -18,4 +18,4 @@ A plugin bridging together Minecraft game chat and a Discord channel
 
 ## Contribute
 
-See the EXAMPLE.md file for an example contribution
+See the [EXAMPLE.md](./EXAMPLE.md) file for an example contribution

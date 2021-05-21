@@ -46,7 +46,7 @@ The Fabric port of Terra
 
 [More info...](./plugins/Terra.md)
 
-### geyser
+### Geyser
 Geyser for fabric!
 
 [More info...](./plugins/geyser.md)

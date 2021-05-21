@@ -6,7 +6,7 @@ Allows bedrock players to join as long as no mods need to be installed client si
 
 ##### Geyser-Fabric
 
-:yellow_circle: Work in progress
+:green_circle: Work in progress
 
 Allows bedrock players to connect
 

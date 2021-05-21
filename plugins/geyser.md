@@ -10,4 +10,4 @@ Allows bedrock players to join as long as no mods need to be installed client si
 
 Allows bedrock players to connect
 
-https://github.com/GeyserMC/Geyser-Fabric/tree/java-1.16-floodgate-2.0
+https://github.com/GeyserMC/Geyser-Fabric/tree/java-1.16

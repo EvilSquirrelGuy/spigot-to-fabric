@@ -6,7 +6,7 @@ Allows bedrock players to join without a java account
 
 ##### Floodgate 2.0-Fabric
 
-:green_circle: Work in progress
+:green_circle: complete
 
 Allows bedrock players to connect
 

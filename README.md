@@ -34,7 +34,7 @@ Adds a TPA command for players
 ### Image on map
 Spawns a map that can be layed on item frames for images
 
-[More info...](./plugins/Image on map.md)
+[More info...](./plugins/Image_on_map.md)
 
 ### Open Inventory
 Allows you to see in the inventory of your players

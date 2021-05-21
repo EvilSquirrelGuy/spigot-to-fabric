@@ -19,7 +19,7 @@ A plugin bridging together Minecraft game chat and a Discord channel
 ### Anti Creeper Griefing
 A plugin to stop creepers from destroying blocks
 
-[More info...](./plugins/Anti Creeper Grief.md)
+[More info...](./plugins/Anti_Creeper_Grief.md)
 
 ### Dynmap 
 A world map for your server
@@ -59,22 +59,22 @@ Allows bedrock players to connect without java accounts
 ### Armored Elytra
 Make your Elytra stronger
 
-[More info...](./plugins/Armored Elytra.md)
+[More info...](./plugins/Armored_Elytra.md)
 
 ### Vien Miner
 Mine viens quickly
 
-[More info...](./plugins/Vien Miner.md)
+[More info...](./plugins/Vien_Miner.md)
 
 ### Tree Feller
 Break down trees quickly
 
-[More info...](./plugins/Tree Feller.md)
+[More info...](./plugins/Tree_Feller.md)
 
 ### Mob heads
 Mobs have a chance of dropping there head when killed
 
-[More info...](./plugins/Mob heads.md)
+[More info...](./plugins/Mob_heads.md)
 
 ## Contribute
 

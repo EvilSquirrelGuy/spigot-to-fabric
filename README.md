@@ -56,6 +56,26 @@ Allows bedrock players to connect without java accounts
 
 [More info...](./plugins/floodgate.md)
 
+### Armored Elytra
+Make your Elytra stronger
+
+[More info...](./plugins/Armored Elytra.md)
+
+### Vien Miner
+Mine viens quickly
+
+[More info...](./plugins/Vien Miner.md)
+
+### Tree Feller
+Break down trees quickly
+
+[More info...](./plugins/Tree Feller.md)
+
+### Mob heads
+Mobs have a chance of dropping there head when killed
+
+[More info...](./plugins/Mob heads.md)
+
 ## Contribute
 
 See the EXAMPLE.md file for an example contribution

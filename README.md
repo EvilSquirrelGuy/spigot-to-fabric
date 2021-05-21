@@ -7,7 +7,7 @@ Each plugin, or collection of similar plugins, has a file in plugins directory. 
 
 ## Contribute
 
-See the [EXAMPLE.md](./EXAMPLE.md) file for an example contribution
+See the [EXAMPLE.md] file for an example contribution
 
 ## Plugin List
 ### CoreProtect

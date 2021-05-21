@@ -78,4 +78,4 @@ Mobs have a chance of dropping there head when killed
 
 ## Contribute
 
-See the EXAMPLE.md file for an example contribution
+See the [EXAMPLE.md](./EXAMPLE.md) file for an example contribution

@@ -79,3 +79,8 @@ Break down trees quickly
 Mobs have a chance of dropping there head when killed
 
 [More info...](./plugins/Mob_heads.md)
+
+### Stone Drops
+Drops items from stone when mined
+
+[More info...](./plugins/Stone_drops.md)

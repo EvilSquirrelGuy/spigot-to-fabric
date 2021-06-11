@@ -84,3 +84,8 @@ Mobs have a chance of dropping there head when killed
 Drops items from stone when mined
 
 [More info...](./plugins/Stone_drops.md)
+
+### No tick view distance
+Allows for chunks to be loaded without them being ticked outside a certain radius, improving performance
+
+[More info...](./plugins/no-tick-view-distance.md)

@@ -23,7 +23,7 @@ A plugin bridging together Minecraft game chat and a Discord channel
 ### Anti Creeper Griefing
 A plugin to stop creepers from destroying blocks
 
-[More info...](./plugins/Anti_Creeper_Grief.md)
+[More info...](./plugins/Anti Creeper Grief.md)
 
 ### Dynmap 
 A world map for your server

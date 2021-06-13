@@ -4,11 +4,24 @@ A plugin logging player activities to a database with the option of rolling thos
 
 ### Fabric alternatives or ports
 
-##### DeltaLogger
+##### Ledger
 
 :green_circle: Complete
 
-DeltaLogger supports logging to either MySQL or SQLite databases with the ability to rollback most actions
+ledger is the first fully fledged coreprotect alternative for fabric. It supports logging of almost everything to SQLite databases, with rollback previews, rollbacks and increasing support for Ledger client mods, which allow GUI interaction with the mod. Only available for Minecraft 1.17.x
+
+https://github.com/QuiltServerTools/Ledger
+
+https://curseforge.com/minecraft/mc-mods/ledger
+
+https://modrinth.com/mod/ledger
+
+
+##### DeltaLogger
+
+:yellow_circle: No longer under active development
+
+DeltaLogger supports logging to either MySQL or SQLite databases with the ability to rollback most actions. Only supports 1.16.x and is no longer supported
 
 https://github.com/QuiltServerTools/DeltaLogger
 

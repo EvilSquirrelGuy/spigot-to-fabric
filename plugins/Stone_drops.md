@@ -6,7 +6,7 @@ Drops items from stone when mined
 
 ##### Geode
 
-:yellow_circle: Work In Progress
+:green_circle: Complete
 
 Drops items from stone when mined (Does not currently drop XP)
 

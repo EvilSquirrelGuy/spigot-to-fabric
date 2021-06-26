@@ -16,6 +16,13 @@ https://curseforge.com/minecraft/mc-mods/ledger
 
 https://modrinth.com/mod/ledger
 
+##### AntiGenius
+
+🟡 Under Development
+
+AntiGenius is a fabric-supported fork of Prism-Bukkit which is similar to coreprotect. Prevent grief from "genius" by logging and rollback changes to a Minecraft world.
+
+https://github.com/sileence114/AntiGenius
 
 ##### DeltaLogger
 

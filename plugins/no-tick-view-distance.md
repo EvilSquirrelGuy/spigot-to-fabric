@@ -5,9 +5,10 @@ A paper patch allowing for the tick distance to be set seperately from the rende
 ## Fabric alternatives or ports
 
 #### TickTools
-:red_circle: Work in progress: code is not published yet but will be once it is in a useable state
-
-Will also allow for MSPT based render and tick distances
+:green_circle: Allows for the customisation of tick distance and adds support for dynamically adjusting the tick/render distance based off MSPT
 
 `https://github.com/quiltservertools/ticktools`
 
+`https://curseforge.com/minecraft/mc-mods/ticktools`
+
+`https://modrinth.com/mod/ticktools`

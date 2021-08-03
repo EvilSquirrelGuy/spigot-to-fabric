@@ -10,7 +10,7 @@ Each plugin, or collection of similar plugins, has a file in plugins directory. 
 See the [EXAMPLE.md](./EXAMPLE.md) file for an example contribution
 
 ## Plugin List
-###Anti Xray
+### Anti Xray
 A plugin that lets you block players from using Xray mods and packs 
 
 [More info...](./plugins/Anti_Xray.md)

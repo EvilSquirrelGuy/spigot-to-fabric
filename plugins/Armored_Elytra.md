@@ -4,7 +4,7 @@ Make your Elytra stronger
 
 ### Fabric alternatives or ports
 
-##### Armored Elytra (vanilla tweaks0
+##### Armored Elytra (vanilla tweaks)
 
 :green_circle: Finished
 

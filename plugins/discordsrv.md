@@ -25,3 +25,13 @@ TomsServerUtils is a mod for Minecraft that includes several features useful for
 https://github.com/Geek202/TomsServerUtils
 
 https://modrinth.com/mod/toms-server-utils
+
+#### DisFabric
+
+:green_circle: Complete 
+
+DisFabric is a robust use of webhooks to brige your MC server with your discord server!
+
+https://www.curseforge.com/minecraft/mc-mods/disfabric
+
+https://github.com/BRForgers/DisFabric

@@ -10,6 +10,21 @@ Each plugin, or collection of similar plugins, has a file in plugins directory. 
 See the [EXAMPLE.md](./EXAMPLE.md) file for an example contribution
 
 ## Plugin List
+###Anti Xray
+A plugin that lets you block players from using Xray mods and packs 
+
+[More info...](./plugins/Anti_Xray.md)
+
+### Better Portals
+A plugin that makes nether portals see-through server side!
+
+[More info...](./plugins/Better_Portals.md)
+
+### Change Skin
+A plugin that lets players change there skin server side
+
+[More info...](./plugins/ChangeSkin.md)
+
 ### CoreProtect
 A plugin logging player activities to a database with the option of rolling those changes back
 
@@ -75,6 +90,11 @@ Break down trees quickly
 
 [More info...](./plugins/Tree_Feller.md)
 
+### Tab TPS 
+Allows you to see TPS, MSPT, and more in the tab menu!
+
+[More info...](./plugins/Tab_TPS.md)
+
 ### Mob heads
 Mobs have a chance of dropping there head when killed
 
@@ -89,3 +109,9 @@ Drops items from stone when mined
 Allows for chunks to be loaded without them being ticked outside a certain radius, improving performance
 
 [More info...](./plugins/no-tick-view-distance.md)
+
+## Fabric Only
+Mo'Structures
+Adds more structure to explore in your minecraft world!
+
+[More info...](./plugins/Mo-Structures)

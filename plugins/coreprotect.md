@@ -8,7 +8,7 @@ A plugin logging player activities to a database with the option of rolling thos
 
 :green_circle: Complete
 
-ledger is the first fully fledged coreprotect alternative for fabric. It supports logging of almost everything to SQLite databases, with rollback previews, rollbacks and increasing support for Ledger client mods, which allow GUI interaction with the mod. Only available for Minecraft 1.17.x
+Ledger is the first fully fledged coreprotect alternative for fabric. It supports logging of almost everything to SQLite databases, with rollback previews, rollbacks and increasing support for Ledger client mods, which allow GUI interaction with the mod. Only available for Minecraft >1.17.x
 
 https://github.com/QuiltServerTools/Ledger
 

@@ -16,7 +16,7 @@ https://github.com/webbukkit/dynmap
 
 #### BlueMap
 
-🟢 Seems pretty stable (info not provided by developer)
+🟢 Complete
 
 Dynmap alternative with different features
 
